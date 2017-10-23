@@ -1,2 +1,2 @@
 # react-collapse-by-css
-Recat collapse component
+React collapse component
